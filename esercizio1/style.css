@@ -1,0 +1,20 @@
+body {
+background-color: rgba(166, 127, 79, 0.375);
+}
+span {
+color: rgb(45, 171, 150);
+}
+ul{
+ color: rgb(255, 0, 60);
+} 
+
+
+ol{ color: rgb(137, 85, 185);
+
+}
+
+h1{color: rgb(71, 180, 12);}
+
+.yo{
+    background-color: aquamarine;
+}
